@@ -4,6 +4,8 @@
 
 ``+``, ``-``, ``.^``, ``( )``, ``:``, ``whos``, ``openvar``
 
+**READ UP TO AND INCLUDING SECTION 0.6 IN THE GUIDE BEFORE ATTEMPTING THESE EXERCISES**
+
 The following are really the most basic "exercises" to get everyone started on doing simple maths on the command line. Nothing particularly exciting here, apart from the last couple of exercises that are a bit more maths-y (but not particularly Matlab-heavy).
 
 In the command prompt, try to work out the following:
@@ -16,6 +18,8 @@ In the command prompt, try to work out the following:
 6.	64 to the power of one third
 7.	**(bonus)** the square root of 81 (not using the ``sqrt()`` function?!)
 
+
+**READ UP TO AND INCLUDING SECTION 0.11 IN THE GUIDE BEFORE ATTEMPTING THESE EXERCISES**
 
 And look at the following exercises briefly to make some vectors / list of numbers.
 
