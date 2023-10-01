@@ -1,4 +1,4 @@
-# Plotting data
+# UNIT 5: Plotting data (beyond Week 2)
 
 Let's write a script to do the following things in sequence (include **comments at each step!**):
 
