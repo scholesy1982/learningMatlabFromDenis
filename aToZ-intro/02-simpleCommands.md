@@ -7,6 +7,8 @@
 
 ``pi``, ``( )``, ``[ ]`` ``:``, ``whos``, ``size()``, ``rand()``, ``mean()``, ``std()``, ``min()``, ``max()``, ``rem()`` (remainder after division), ``reshape()``, ``repmat()``, indexing, rows, columns
 
+**READ UP TO AND INCLUDING SECTION 0.14 IN THE GUIDE BEFORE ATTEMPTING THESE EXERCISES**
+
 1. Make sure to ``clear all`` before starting on these exercises. Keep some notes on what's going on and try to understand each step and then move on to the next section
   ```matlab
   a = [3, pi, 10, 1; 2 7 4 1]
@@ -72,11 +74,6 @@
   ```matlab
   f = 1:100
   rem(f,2) % remainder after division w/ 2
-  ```
-  Not standard Matlab, but very useful helper functions from @justingardner
-  ```matlab
-  isodd(f)
-  iseven(f)
   ```
 
 7. See how you can turn 1..N into a repeating pattern:
