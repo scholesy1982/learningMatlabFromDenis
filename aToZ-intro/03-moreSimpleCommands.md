@@ -1,4 +1,4 @@
-#  More simple commands
+#  More simple commands (Week 2)
 
 
 **Useful operators, commands, and concepts for this unit...**
