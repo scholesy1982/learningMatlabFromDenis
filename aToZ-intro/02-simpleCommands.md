@@ -1,4 +1,4 @@
-# Simple commands (Week 1/2)
+# UNIT 2: Simple commands (Week 1 - 2)
 
 - Play around with the following commands just to get a feel for the command prompt, what error messages look like, etc.
 - Keep notes on anything that you find surprising or that you don't understand.
