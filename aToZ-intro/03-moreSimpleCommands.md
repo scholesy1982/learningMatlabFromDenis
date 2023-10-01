@@ -28,7 +28,7 @@
 
 3. Create a column vector ``r`` of size 100 that contains randomly chosen ``0`` or ``1``, each with equal probability.
 
-4. Create another column vector ``s`` of size 100 that contains randomly chosen ``0`` (with p=0.3) and ``1`` with p=0.7).
+4. Create another column vector ``s`` of size 100 that contains randomly chosen ``0`` (with p=0.3) and ``1`` (with p=0.7).
 
 5. Look at the help for the function ``randperm``. Create a randomly permuted vector ``idx`` of size 10, and a vector ``q`` that contains 5 zeros followed by 5 ones. Can you think of a simple way to permute the entries ``q`` using ``idx``.
 
