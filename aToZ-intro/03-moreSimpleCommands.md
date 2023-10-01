@@ -5,6 +5,8 @@
 
 ``rand()``, ``round()``, ``floor()`` (round down), ``ceil()`` (round up), ``repmat()``, random numbers, random ordering of numbers
 
+**READ UP TO AND INCLUDING SECTION 0.14 IN THE GUIDE BEFORE ATTEMPTING THESE EXERCISES**
+
 1. Make sure to ``clear all`` before starting on these exercises. Keep some notes on what's going on and try to understand each step and then move on to the next section
   ```matlab
   x = 1:10
