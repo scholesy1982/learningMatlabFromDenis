@@ -1,4 +1,4 @@
-# Debugging other people's code
+# UNIT 7: Debugging other people's code (beyond Week 2)
 
 ## What's wrong with the following code
 
