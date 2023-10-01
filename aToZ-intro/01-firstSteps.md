@@ -1,4 +1,4 @@
-#  First steps
+#  First steps (Week 1)
 
 **Useful operators and commands for this unit...**
 
