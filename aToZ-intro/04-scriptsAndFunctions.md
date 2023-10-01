@@ -1,4 +1,4 @@
-#  Scripts and functions
+#  UNIT 4: Scripts and functions (beyond Week 2)
 
 ## A quick overview of how **scripts** work:
 
