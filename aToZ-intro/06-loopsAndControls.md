@@ -1,4 +1,4 @@
-# UNIT6: Loops and controls (beyond Week 2)
+# UNIT 6: Loops and controls (beyond Week 2)
 
 ## Logical variables
 
