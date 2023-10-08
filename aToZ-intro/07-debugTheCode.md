@@ -2,7 +2,7 @@
 
 ## What's wrong with the following code
 
-Each of the following examples has **one or more** issues. Identify them and try to fix them. What was the intent? Why was it broken? Can you think of a better way to do it?
+Each of the following examples has **one or more** issues. Identify them and try to fix them - copy the lines into Matlab and address the error message that you get. What was the intent? Why was it broken? Can you think of a better way to do it?
 
 1. Syntax issues
 ```matlab
@@ -52,6 +52,3 @@ x = -2:0.2:2;
 y = x.^2-1+1/3-x-2.*0.2;
 ```
 
-# Next
-
-[Looping over plots](08-loopOverPlots.md) - layer several plots together.
