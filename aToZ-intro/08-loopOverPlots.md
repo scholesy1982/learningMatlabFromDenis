@@ -42,7 +42,7 @@ YOU'RE GETTING CLOSER TO THE HINTS (ARE YOU SURE YOU WANT TO LOOK AT THEM?)<br>
 THERE'S NO GOING BACK NOW<br>
 .......<br>
 
-**HINT 1 - calculate y in loop**
+**Hint 1 - calculate y in loop**
 
 Step one in solving this problem could be to figure out how to calculate the ``y`` values in a loop (and worry about the plotting later).
 
@@ -120,7 +120,3 @@ end
 </pre>
 
 </p></details>
-
-# Next
-
-[Nesting loops](09-nestedLoops.md) - how to loop over loops.
