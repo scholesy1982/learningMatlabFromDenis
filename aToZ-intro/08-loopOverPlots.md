@@ -20,6 +20,11 @@ figure
 plot(x,y,'color', colors(1,:)); % first in the "family"
 ```
 
+Try to do this exercise WITHOUT looking at the hints below. We're starting to get to the point where you're consolidating the knowledge you've gained from the earlier units and so it's important to take your time with this and try to work it out for yourself. Write out the steps that you would take using comments. Then add in the code needed at each step.
+
+If you get stuck, have a look at the first hint to get you going. 
+
+
 Hint 1 - calculate y in loop
 
 Step one in solving this problem could be to figure out how to calculate the ``y`` values in a loop (and worry about the plotting later).
