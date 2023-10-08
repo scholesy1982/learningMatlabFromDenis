@@ -41,7 +41,7 @@ This code picks the first element of ``mus`` and ``sigmas`` on the first iterati
 But ``y`` gets over-written each time we go through the loop. That's fine for here, but you could think about how to keep hold on to that information instead.
 </p></details>
 
-<details><summary>Hint 2 - plot on top of other stuff</summary><p>
+Hint 2 - plot on top of other stuff
 
 Step two in solving this problem could be to figure out how to plot one thing on top of another...
 
@@ -64,7 +64,8 @@ end
 </p></details>
 
 <details>
-<summary>Hint 3 - pick different colors</summary><p>
+  
+Hint 3 - pick different colors
 
 Step 3 is to pick a different colour each time...
 
@@ -86,7 +87,8 @@ end
 </p></details>
 
 <details>
-<summary>Hint 4 - put it all together</summary><p>
+
+Hint 4 - put it all together
 
 <pre>
 <code>
