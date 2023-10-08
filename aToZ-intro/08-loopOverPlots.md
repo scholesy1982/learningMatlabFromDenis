@@ -20,7 +20,7 @@ figure
 plot(x,y,'color', colors(1,:)); % first in the "family"
 ```
 
-<details><summary>Hint 1 - calculate y in loop</summary><p>
+Hint 1 - calculate y in loop
 
 Step one in solving this problem could be to figure out how to calculate the ``y`` values in a loop (and worry about the plotting later).
 
