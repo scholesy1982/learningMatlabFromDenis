@@ -42,8 +42,8 @@
 
 To motivate some of these exercises with something that's a bit closer to a real-life situation:
 
-Open the following text file that contains
-<a href="lab02_timecourse.txt" target="new">a column of data</a>. You can make an empty variable, say ``z`` by assigning an empty list to it: ``z = []``. Then open it in the variable viewer and paste the contents of the text file into it.
+Open https://moodle.nottingham.ac.uk/pluginfile.php/10220480/mod_resource/content/1/lab02_timecourse.txt containing
+a column of data. You can make an empty variable, say ``z`` by assigning an empty list to it: ``z = []``. Then open it in the variable viewer and paste the contents of the text file into it.
 
 Can you figure out how to (interactively) make a plot of those numbers?
 
