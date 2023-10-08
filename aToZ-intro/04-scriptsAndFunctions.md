@@ -24,9 +24,7 @@ Scripts are really the first step in making things you have to do over and over 
 
 ## Simple, quick exercises for **scripts**:
 
-1. Write a script ``ccc.m`` (with appropriate documentation) that issues ``close all`` followed by ``clear all``. This will allow you to reset the workspace for a clean start. I have such a script and I use it *all the time*.
-2. Think about some things you need to do all the time for your work. Specific things to think about: are there things that require you to type the same commands several times over (say, for each subject in one of your experiments, or every time you start an analysis session). Do you copy/paste columns in Excel in the same way for many different files? Can you think of a way in which these tasks might be scriptable?
-3. Write down one example (in outline) of a task that you could script - we'll share them at the end of the practice session.
+1. Write a script ``ccc.m`` (with appropriate documentation - comments ``%``  describing what each part of the script does) that issues ``close all`` followed by ``clear all``. This will allow you to reset the workspace for a clean start. I have such a script and I use it *all the time*.
 
 
 ## Functions
@@ -105,13 +103,6 @@ reverseMe( 'this is pretty cool!' ) % should return
 ans =
 !looc ytterp si siht
 ```
-- *Hint!* Think about the order of indeces for a vector of numbers (or a string, which is really just a vector of characters). Normally they are laid out in the order ``1...n``, where ``n`` is the lengthe of the vector. How can you make an index that contains ``n...1``. The ``:`` (colon) operator should come to the rescue.
+- *Hint!* Think about the order of indexes for a vector of numbers (or a string, which is really just a vector of characters). Normally they are laid out in the order ``1...n``, where ``n`` is the lengthe of the vector. How can you make an index that contains ``n...1``. The ``:`` (colon) operator should come to the rescue.
 
 - If you get stuck, try to write down in comments how you would go about doing it and discuss with your neighbour in the labclass...
-
-
-We'll combine some more exercises on writing functions with some plotting in the next section.
-
-# Next
-
-[Plotting data](05-plottingData.md) - making simple plots.
