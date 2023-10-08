@@ -60,10 +60,6 @@ for iParam = 1:nParams
 end
 </code>
 </pre>
-
-</p></details>
-
-<details>
   
 Hint 3 - pick different colors
 
@@ -84,9 +80,6 @@ for iParam = 1:nParams
 end
 </code>
 </pre>
-</p></details>
-
-<details>
 
 Hint 4 - put it all together
 
