@@ -38,7 +38,7 @@ end
 
 This code picks the first element of ``mus`` and ``sigmas`` on the first iteration, the second on the second iteration, etc.
 
-But ``y`` gets over-written each time we go through the loop. That's fine for here, but you could think about how to keep hold on to that information instead.
+But ``y`` gets over-written each time we go through the loop. That's fine for here, but you could think about how to keep hold of that information instead.
 </p></details>
 
 Hint 2 - plot on top of other stuff
