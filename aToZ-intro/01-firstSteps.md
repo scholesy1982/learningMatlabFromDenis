@@ -30,7 +30,7 @@ And look at the following exercises briefly to make some vectors / list of numbe
 5.	Look at how the colon (``:``) can be used to fill in numbers. Look at ``help colon``
 6.	Compare the results of ``1:10``  and ``1:2:10`` and ``10:-1:1``
 7.	Add the number 15 to the vector ``b``
-8.  Create ``c=2:2:12`` and try to add the wrongly shaped ``[1 2]``  to ``c``. Note down the error message!
+8.  Create ``c=2:2:12`` and try to add the wrongly shaped ``[1; 2]``  to ``c``. Note down the error message!
 9.  Try joining the vectors ``a`` and ``b``. Now the vectors ``b`` and ``c``. Should this work?
 
 ##  Next
