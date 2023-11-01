@@ -14,3 +14,10 @@ mat. The following gives you a way to look without loading the data in. This is 
 clear all, close all
 whos -file exFixation.mat
 ```
+
+2. Load the data into the main Matlab workspace so you can manipulate the data and get ready to write a function for plotting data in differet ways:
+
+```matlab
+load exFixation
+```
+
