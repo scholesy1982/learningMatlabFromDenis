@@ -15,13 +15,13 @@ clear all, close all
 whos -file exFixation.mat
 ```
 
-2. Load the data into the main Matlab workspace so you can manipulate the data and get ready to write a function for plotting data in differet ways:
+2. Load the data into the main Matlab workspace so you can manipulate the data and get ready to write a function for plotting data in different ways:
 
 ```matlab
 load exFixation
 ```
 
-3. Now, we can start working on a new function (call it plotFixations) that plots the data in a couple of different ways. The figure window should be divided into three ‘‘subplot‘‘s - the first showing the x-position as a function of time, the second the y-position as a function of time and the third a plot of y-position against x-position (the actual eye-position in 2d). You should be able to call:
+3. Now, we can start working on a new function (call it ``plotFixations``) that plots the data in a couple of different ways. The figure window should be divided into three ``subplot``s - the first showing the x-position as a function of time, the second the y-position as a function of time and the third a plot of y-position against x-position (the actual eye-position in 2d). You should be able to call:
 
 ```matlab
 plotFixations(datax, datay, 3, 'g')
@@ -44,4 +44,5 @@ Example of fixation plots produced ``plotFixations()``
 * ``plot`` the data and use ``hold on`` and plot the selected points on top in a different color.
 * the finished product may look something like the following:
 
+<img width="727" alt="Screenshot 2023-11-01 at 21 33 45" src="https://github.com/scholesy1982/learningMatlabFromDenis/assets/146671875/d87491b8-db3e-4ed8-88d3-912f043c2567">
 
