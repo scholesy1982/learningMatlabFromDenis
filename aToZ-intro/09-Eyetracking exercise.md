@@ -44,4 +44,4 @@ Example of fixation plots produced ``plotFixations()``
 * ``plot`` the data and use ``hold on`` and plot the selected points on top in a different color.
 * the finished product may look something like the following:
 
-<p style="text-align: center;"> Example of fixation plots produced ``plotFixationsInWindow()``  </p>
+
