@@ -28,3 +28,20 @@ plotFixations(datax, datay, 3, 'g')
 % plotFixations(<x data>, <y data>, <trialNumber>, <line specifications>)
 ```
 
+4. **Bonus.** A more advanced way to specify linestyles for the plots. Can you see how to do this? Hint: check out what happens when you expand a cell array using the colon operator - as indicated just below:
+
+```matlab
+plotFixations(datax, datay, 3, {'linewidth',2, 'color',[0 1 1]}) % more advanced use of line specifications
+bla = {'linewidth',2, 'color',[0 1 1]};
+bla{:}
+```
+
+Example of fixation plots produced ``plotFixations()``
+
+5. Now it’s time to break out the bit of code that plots y against x. For the next steps we are not so interested in how x and y evolve over time, but more about which parts of space. Write another function ``plotFixationsInWindow()``. In this function, the input arguments are: ``x, y, trialNum, fixationWindow``. The variable ``fixationWindow`` specifies the dimensions of a box for which you want to estimate the proportion of viewing time.
+* ``fixationWindow`` should be a 4 element vector ``[x0 y0 x1 y1]``
+* use logical test to make an index that selects part of the data within the limits
+* ``plot`` the data and use ``hold on`` and plot the selected points on top in a different color.
+* the finished product may look something like the following:
+
+<p style="text-align: center;"> Example of fixation plots produced ``plotFixationsInWindow()``  </p>
