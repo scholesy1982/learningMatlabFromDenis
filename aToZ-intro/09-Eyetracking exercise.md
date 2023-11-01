@@ -21,3 +21,10 @@ whos -file exFixation.mat
 load exFixation
 ```
 
+3. Now, we can start working on a new function (call it plotFixations) that plots the data in a couple of different ways. The figure window should be divided into three ‘‘subplot‘‘s - the first showing the x-position as a function of time, the second the y-position as a function of time and the third a plot of y-position against x-position (the actual eye-position in 2d). You should be able to call:
+
+```matlab
+plotFixations(datax, datay, 3, 'g')
+% plotFixations(<x data>, <y data>, <trialNumber>, <line specifications>)
+```
+
