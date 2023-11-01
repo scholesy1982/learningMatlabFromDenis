@@ -4,4 +4,4 @@
 
 logical indexing, ``nan``, ``subplot()``, ``cell`` arrays and using {:} to unpack them
 
-Data in the file exFixation.mat are organized as follows: there are two matrices datax and datay that are of size 1000 rows (time points) by 10 columns (trials). That means: 10 very long columns. Fixation patterns refer back to the following kinds of images. In the second part of the exercise you’ll need to know the bounding box / region of interest for the eyes.
+Data in the file ``exFixation.mat`` are organized as follows: there are two matrices datax and datay that are of size 1000 rows (time points) by 10 columns (trials). That means: 10 very long columns. Fixation patterns refer back to the following kinds of images. In the second part of the exercise you’ll need to know the bounding box / region of interest for the eyes.
