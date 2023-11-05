@@ -18,11 +18,11 @@ z = Mean( rand(100,1)  );  % taking the mean
 2. Bad intent
 ```matlab
 v = rand(10,1); % vector of 10 random #s
-for i in 1:10
-  if i == 3
+for ii = 1:10
+  if ii == 3
   % when the index is 3 skip step by
   % setting i to 4
-    i = 4;
+    ii = 4;
   end
 end
 ```
