@@ -8,8 +8,7 @@ Data in the file ``exFixation.mat`` are organized as follows: there are two arra
 
 <img width="744" alt="Screenshot 2023-11-01 at 21 14 58" src="https://github.com/scholesy1982/learningMatlabFromDenis/assets/146671875/b8ca3631-0c7a-4741-a5e8-a75d8c6fa39e">
 
-1. Clear the workspace to start with a clean sheet and then inspect the data provided in exFixation.
-mat. The following gives you a way to look without loading the data in. This is useful:
+1. Clear the workspace to start with a clean sheet and then inspect the data provided in exFixation.mat. The following gives you a way to look without loading the data in. This is useful:
 ```matlab
 clear all, close all
 whos -file exFixation.mat
