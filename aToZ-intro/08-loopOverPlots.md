@@ -4,7 +4,7 @@
 
 **Useful operators, commands, and concepts for this unit...**
 
-``hold()``, ``figure()``, ``clf``, ``for``, ``colormap``, ``subplot``
+``hold()``, ``figure()``, ``clf``, ``for``, ``colormap``
 
 Given the following data, find a way to plot a family of curves in the same figure window, for each combination of $\mu$, $\sigma$, and with appropriately coloured lines.
 
