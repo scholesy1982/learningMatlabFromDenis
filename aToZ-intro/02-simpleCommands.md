@@ -28,6 +28,7 @@
   ```matlab
   % indexing into a
   a(:,2)
+  a(1,:)
   a(1,4)
   a(1)
   a(2)
