@@ -31,7 +31,6 @@ We'll get you kick-started and explain how to:
 + do simple maths with Matlab
 + learn about + create ``variables``
 + change ``variables``
-+ :arrow_right: github.com/schluppeck/learningMatlab
 
 ---
 
