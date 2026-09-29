@@ -1,19 +1,3 @@
----
-marp:  true
-paginate: true
-size: 4:3
----
-
-
-# Getting started
-
-Quick demo of a couple of real-life uses:
-
-- plotting sample data
-- loading an image (+ playing around)
-- image capture demo
-
-
 --- 
 # Diving straight in
 
