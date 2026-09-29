@@ -32,5 +32,5 @@ And look at the following exercises briefly to make some vectors / list of numbe
 7.	Add the number 15 to the vector ``b``
 8.  Create ``c = 2:2:12`` and ``d = [1, 2]``. Try to add ``c`` and ``d`` together. Should this be possible? Note down the error message!
 9.  Try joining the vectors ``a`` and ``b``. Now the vectors ``b`` and ``c``. Should this work?
-10. Text is defined in Matlab using apostrophes (``''``). Create ``string1 = 'Matlab '`` and ``string2 = 'is fun.'. Can you guess at how you might stick these two strings together (clue: you can use the same 'sticky' brackets you use to stick numbers together).
+10. Text is defined in Matlab using apostrophes (``''``). Create ``string1 = 'Matlab '`` and ``string2 = 'is fun.'``. Can you guess at how you might stick these two strings together (clue: you can use the same 'sticky' brackets you use to stick numbers together).
 
