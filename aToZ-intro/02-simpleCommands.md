@@ -1,4 +1,4 @@
-# UNIT 2: Simple commands (Week 1 - 2)
+# UNIT 2: Simple commands
 
 - Play around with the following commands just to get a feel for the command prompt, what error messages look like, etc.
 - Keep notes on anything that you find surprising or that you don't understand.
@@ -96,6 +96,3 @@
   repmat([1 2 3], 5, 1)
   ```
 
-##  Next
-
-[More simple commands](03-moreSimpleCommands.md) and some practice making vectors and matrices that contain specific things.
