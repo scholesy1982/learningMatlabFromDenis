@@ -1,4 +1,4 @@
-#  UNIT 1: First steps (Week 1)
+#  UNIT 1: First steps
 
 **Useful operators and commands for this unit...**
 
@@ -30,9 +30,6 @@ And look at the following exercises briefly to make some vectors / list of numbe
 5.	Look at how the colon (``:``) can be used to fill in numbers. Look at ``help colon``
 6.	Compare the results of ``1:10``  and ``1:2:10`` and ``10:-1:1``
 7.	Add the number 15 to the vector ``b``
-8.  Create ``c=2:2:12`` and ``d=[1; 2]``. Try to add ``c`` and ``d`` together. Should this be possible? Note down the error message!
+8.  Create ``c=2:2:12`` and ``d=[1, 2]``. Try to add ``c`` and ``d`` together. Should this be possible? Note down the error message!
 9.  Try joining the vectors ``a`` and ``b``. Now the vectors ``b`` and ``c``. Should this work?
 
-##  Next
-
-[Simple commands](02-simpleCommands.md) for getting the mean, std, etc.
