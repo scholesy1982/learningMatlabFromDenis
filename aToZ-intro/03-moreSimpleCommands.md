@@ -1,4 +1,4 @@
-#  UNIT 3: More simple commands (Week 2)
+#  UNIT 3: More simple commands
 
 
 **Useful operators, commands, and concepts for this unit...**
@@ -47,7 +47,3 @@ a column of data. You can make an empty variable, say ``z`` by assigning an empt
 
 Can you figure out how to (interactively) make a plot of those numbers?
 
-
-##  Next
-
-[Scripts and functions](04-scriptsAndFunctions.md) - why they are useful, how they work.
